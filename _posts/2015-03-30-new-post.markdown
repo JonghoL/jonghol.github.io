@@ -1,0 +1,8 @@
+---
+layout: post
+title: New Post
+date: 2015-03-30 23:26:31 +09:00
+---
+
+
+new post
