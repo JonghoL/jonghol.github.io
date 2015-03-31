@@ -4,7 +4,27 @@ title: Works
 permalink: /works/
 ---
 
- Multi-touch content, CES2010 in Las Vegas 
+## Multi-touch wall, MWC2010 in Barcelona
+![mwc2010-2](https://raw.githubusercontent.com/JonghoL/jonghol.github.io/master/assets/mwc2010_2.png)
+
+
+2010.01.16-2010.02.20
+
+C#,WPF,Modified TUIO Library
+
+Newintmedia
+Design by Newintmedia
+Programmed by rpkim, jongholee
+
+LG Air-sync is using in cell phone, desktop also web. 
+This content is a concept content for advertising LG Air-sync. 
+The screen size is 4M(w) x 1.2M(h).
+
+___
+
+
+
+## Multi-touch content, CES2010 in Las Vegas 
 ![ces2010](https://raw.githubusercontent.com/JonghoL/jonghol.github.io/master/assets/ces2010.png)
 
 2009.12.14-2010.01.15 
