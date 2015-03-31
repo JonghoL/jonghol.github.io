@@ -6,7 +6,7 @@ permalink: /works/
 
 
 ## u-Severance2
-<img src="https://raw.githubusercontent.com/JonghoL/jonghol.github.io/master/assets/uSeverance2.png " width="500" height="500">
+<img src="https://raw.githubusercontent.com/JonghoL/jonghol.github.io/master/assets/uSeverance2.png" width="500" height="500">
 
 
 
