@@ -4,6 +4,21 @@ title: Works
 permalink: /works/
 ---
 
+
+## u-Severance2
+<img src="https://raw.githubusercontent.com/JonghoL/jonghol.github.io/master/assets/uSeverance2.png " width="500" height="500">
+
+
+
+2014.11.26 - 2014.12.15
+
+Swift
+
+Yonsei University Health System
+
+Programmed by  jongholee
+
+___
 ## Multi-touch wall, MWC2010 in Barcelona
 ![mwc2010-2](https://raw.githubusercontent.com/JonghoL/jonghol.github.io/master/assets/mwc2010_2.png)
 
@@ -14,6 +29,7 @@ C#,WPF,Modified TUIO Library
 
 Newintmedia
 Design by Newintmedia
+
 Programmed by rpkim, jongholee
 
 LG Air-sync is using in cell phone, desktop also web. 
