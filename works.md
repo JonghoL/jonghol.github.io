@@ -35,6 +35,7 @@ Newintmedia Design by Newintmedia
 
 Programmed by rpkim, jongholee 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Cns4OCZts8I
-" target="_blank"><img src="http://img.youtube.com/vi/Cns4OCZts8I/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="2" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Cns4OCZts8I" target="_blank">
+<img src="http://img.youtube.com/vi/Cns4OCZts8I/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="2" />
+</a>
