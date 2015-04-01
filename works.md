@@ -12,11 +12,13 @@ permalink: /works/
 
 2014.11.26 - 2014.12.15
 
-Swift
+Swift, iOS
 
 Yonsei University Health System
 
 Programmed by  jongholee
+
+Electronic Medical Record Viewer
 
 ___
 
@@ -33,10 +35,6 @@ Newintmedia
 Design by Newintmedia
 
 Programmed by rpkim, jongholee
-
-LG Air-sync is using in cell phone, desktop also web. 
-This content is a concept content for advertising LG Air-sync. 
-The screen size is 4M(w) x 1.2M(h).
 
 ___
 
