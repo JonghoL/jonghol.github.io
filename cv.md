@@ -18,7 +18,7 @@ Experience
 
 ##### Maintenanced a WPF desktop application and an iOS app
 
-##### Deveploped mobile web contents and a simple iOS app
+##### Developed mobile web contents and a simple iOS app
 
 ##### Contributed new designed framework for hospital management system
 
