@@ -14,13 +14,10 @@ permalink: /cv/
 
 Experience
 
-##### **Yonsei University Health System**
+##### Jan. 2012 - Present **Yonsei University Health System**
 
-##### Jan. 2012 - Present     
 
-##### **.NETXPERT**
-
-##### Oct. 2010 - Nov. 2011
+##### Oct. 2010 - Nov. 2011 **.NETXPERT**
 
 <br>
 

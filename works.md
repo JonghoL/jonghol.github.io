@@ -11,13 +11,13 @@ permalink: /works/
 
 2014.11.26 - 2014.12.15
 
-##### Swift, iOS
+##### Swift, iOS, In-House
 
 ##### Yonsei University Health System
 
-##### Development by by jongholee
+##### Developed by jongholee
 
-##### Electronic Medical Record Viewer
+##### View Medical Record
 
 ___
 
@@ -25,15 +25,17 @@ ___
 <img src="https://raw.githubusercontent.com/JonghoL/jonghol.github.io/master/assets/uSeverance.png" width="295" height="437.6">
 
 
-2012.04 - 
+2012.04 - 2015.03
 
-##### Object-C, iOS, C#, ASP.NET MVC4 & Web API, Elasticsearch
+##### Object-C, iOS, In-House, C#, ASP.NET MVC4 & Web API, Elasticsearch
 
 ##### Yonsei University Health System
 
-##### Development by jongholee, simonkang
+##### Developed by simonkang
 
-##### Electronic Medical Record Viewer
+##### Maintenanced by jongholee
+
+##### Sign Consent Forms, View Medical Record
 
 ___
 
@@ -48,7 +50,7 @@ ___
 
 ##### Newintmedia 
 
-##### Design by Newintmedia
+##### Designed by Newintmedia
 
 ##### Programmed by jongholee, rpkim
 
@@ -65,7 +67,7 @@ ___
 
 ##### Newintmedia
 
-##### Design by Newintmedia
+##### Designed by Newintmedia
 
 ##### Programmed by jongholee, rpkim
 
