@@ -27,7 +27,7 @@ ___
 
 2012.04 - 2015.03
 
-##### Object-C, iOS, In-House, C#, ASP.NET MVC4 & Web API, Elasticsearch
+##### Object-C, iOS, In-House, C#, ASP.NET MVC & Web API, Elasticsearch
 
 ##### Yonsei University Health System
 
