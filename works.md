@@ -17,7 +17,7 @@ permalink: /works/
 
 ##### Developed by jongholee
 
-##### View Medical Record
+##### View Medical Records
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 ##### Maintenanced by jongholee
 
-##### Sign Consent Forms, View Medical Record
+##### Sign Consent Forms, View Medical Records
 
 ___
 
