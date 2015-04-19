@@ -14,7 +14,7 @@ permalink: /cv/
 
 Experience
 
-##### Jan. 2012 - Present **Yonsei University Health System**
+##### Jan. 2012 - Apr. 2015 **Yonsei University Health System**
 
 ##### Maintenanced a WPF desktop application and an iOS app
 
