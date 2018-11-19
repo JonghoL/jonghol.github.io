@@ -30,6 +30,6 @@ Experience
 
 Education
 
-##### **Kangnung National University**
+##### **Gangnung National University**
 
 ##### 2003 - 2010 BS, Computer Science and Engineering
